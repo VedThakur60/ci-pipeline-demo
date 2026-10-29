@@ -1,4 +1,4 @@
-ef greet():
+def greet():
     return "Hello, DevOps!"
 
 print(greet())
